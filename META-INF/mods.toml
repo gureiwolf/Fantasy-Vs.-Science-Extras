@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="dr_stone_extras"
+version="1.3.0"
+displayName="Dr Stone Extras"
+displayURL="https://x.com/drstonefvss"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="GureiWolf"
+description="Some extra utilities for the Fantasy vs Science mod pack."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.dr_stone_extras]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
