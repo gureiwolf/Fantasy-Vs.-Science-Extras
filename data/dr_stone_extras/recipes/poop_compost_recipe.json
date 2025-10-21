@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "blocks",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bab",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "dr_stone_extras:poop"
+    },
+    "b": {
+      "item": "minecraft:mud"
+    }
+  },
+  "result": {
+    "item": "dr_stone_extras:poopcompost",
+    "count": 1
+  }
+}
