@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dr_stone_extras:block/poopcompost2",
+    "up": "dr_stone_extras:block/poopcompost2",
+    "north": "dr_stone_extras:block/poopcompost2",
+    "east": "dr_stone_extras:block/poopcompost2",
+    "south": "dr_stone_extras:block/poopcompost2",
+    "west": "dr_stone_extras:block/poopcompost2",
+    "particle": "dr_stone_extras:block/poopcompost2"
+  },
+  "render_type": "solid"
+}

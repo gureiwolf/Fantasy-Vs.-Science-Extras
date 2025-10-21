@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dr_stone_extras:block/iron_block_with_copper"
+    }
+  }
+}
